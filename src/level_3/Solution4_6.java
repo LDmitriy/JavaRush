@@ -16,6 +16,21 @@ public class Solution4_6 {
         Terran terran1 = new Terran();
         Terran terran2 = new Terran();
         Terran terran3 = new Terran();
+
+        zerg.name = "z0";
+        zerg1.name = "z1";
+        zerg2.name = "z2";
+        zerg3.name = "z3";
+        zerg4.name = "z4";
+
+        protoss.name = "p0";
+        protoss1.name = "p1";
+        protoss2.name = "p2";
+
+        terran.name = "t0";
+        terran1.name = "t1";
+        terran2.name = "t2";
+        terran3.name = "t3";
     }
 
     public static class Zerg {
