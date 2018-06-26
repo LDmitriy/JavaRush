@@ -1,6 +1,6 @@
 package level_3;
 
-public class Solution4_6 {
+public class Solution3_6 {
     public static void main(String[] args) {
         Zerg zerg = new Zerg();
         Zerg zerg1 = new Zerg();
