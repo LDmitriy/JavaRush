@@ -20,6 +20,7 @@ public class Solution4_17 {
         int a3 = Integer.parseInt(x3);
 
         min(a0,a1,a2,a3);
+
     }
 
     public static void min (int a,int b,int c, int d){
