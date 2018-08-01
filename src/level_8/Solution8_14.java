@@ -40,6 +40,5 @@ public class Solution8_14 {
     }
 
     public static void main(String[] args) {
-
     }
 }
