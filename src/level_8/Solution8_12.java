@@ -5,7 +5,9 @@ import java.util.Set;
 
 public class Solution8_12 {
     public static Set<String> createSet() {
+
         HashSet<String> set = new HashSet<>();
+
         set.add("Лом");
         set.add("Лук");
         set.add("Люк");
