@@ -10,17 +10,17 @@ public class Solution8_19 {
     }
 
     public static Map<String, String> createPeopleList() {
-        Map<String,String> map = new HashMap<>();
-        map.put("q","a");
-        map.put("q","s");
-        map.put("w","d");
-        map.put("e","d");
-        map.put("r","f");
-        map.put("t","g");
-        map.put("y","h");
-        map.put("u","j");
-        map.put("i","k");
-        map.put("o","l");
+        Map<String, String> map = new HashMap<>();
+        map.put("q", "a");
+        map.put("q", "s");
+        map.put("w", "d");
+        map.put("e", "d");
+        map.put("r", "f");
+        map.put("t", "g");
+        map.put("y", "h");
+        map.put("u", "j");
+        map.put("i", "k");
+        map.put("o", "l");
 
         return map;
     }
